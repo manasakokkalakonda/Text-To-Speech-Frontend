@@ -8,7 +8,7 @@ A responsive, full-stack browser-based web application designed to convert writt
 * Backend : Built with Node.js and Express using a structured MVC pattern (controllers, routes, and middleware) to handle voice configurations and text processing.
 
 
-🛠️ Core Frontend Features
+## 🛠️ Frontend Architecture
 
 * Text Input & Validation:  Allows users to enter text with live character and word count tracking.   
 * Language & Voice Selectors:  Dropdowns to choose supported languages (such as English, Hindi, and Spanish) and specific voice options.  
