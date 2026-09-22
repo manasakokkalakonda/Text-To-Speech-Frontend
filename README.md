@@ -17,7 +17,7 @@ A responsive, full-stack browser-based web application designed to convert writt
 
 ## 🚀 Quick Setup Instructions
 
-### 1. Run Backend (`http://localhost:5174`)
+### 1. Run Frontend (`http://localhost:5174`)
 ```powershell
 cd frontend
 npm install
