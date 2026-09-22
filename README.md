@@ -10,10 +10,10 @@ A responsive, full-stack browser-based web application designed to convert writt
 
 🛠️ Core Frontend Features
 
-*Text Input & Validation: Allows users to enter text with live character and word count tracking.   
-*Language & Voice Selectors: Dropdowns to choose supported languages (such as English, Hindi, and Spanish) and specific voice options.  
-*Generate & Play: Triggers the backend REST API and provides an interactive audio player with play, pause, seek, and volume controls.   
-* Download & Error Handling: Enables users to download generated audio files and gracefully displays error messages for network or API failures.
+* Text Input & Validation:  Allows users to enter text with live character and word count tracking.   
+* Language & Voice Selectors:  Dropdowns to choose supported languages (such as English, Hindi, and Spanish) and specific voice options.  
+* Generate & Play:  Triggers the backend REST API and provides an interactive audio player with play, pause, seek, and volume controls.   
+* Download & Error Handling:  Enables users to download generated audio files and gracefully displays error messages for network or API failures.
 
 ## 🚀 Quick Setup Instructions
 
